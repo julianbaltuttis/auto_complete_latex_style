@@ -1,6 +1,8 @@
 # auto_complete_latex_style
 Autohotkey script for Windows that allows auto completion for mathematical symbols in UTF-8.
 
+Requires [Auto Hot Key](https://www.autohotkey.com) to compile.
+
 Use the pound sign `#` as an  identifier prefix (rather than `/` as in Latex).
 
 For instance
@@ -9,3 +11,4 @@ For instance
 I used the latex equivalent identifiers in most cases, except where the latex ones are just plain stupid.
 
 Eg `/rightarrow`  is `#ra`.
+
